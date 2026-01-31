@@ -11,5 +11,5 @@ Langage utilisé : Python
 - `mach.py`: Interpréteur de la machine P-code (étape 1)
 - `l3lang.py`: Lexer + analyse syntaxique + sémantique + génération de code (étapes 2, 3, 4)
 - `exemples/`: Quelques programmes de test
-- `tests.ipynb`: (optionnel) Notebook pour tester rapidement
+- `tests.ipynb`: Notebook pour tester rapidement
 
