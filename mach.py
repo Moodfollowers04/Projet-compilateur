@@ -7,8 +7,7 @@ def mach(programme):
         inst = partie[0]
         arg = int (partie[1]) if len(partie) > 1 else None
         if inst == "LDI":
-
-            pile.append(arg) #Pour empiler  LDI selon les instructions du TP
+         pile.append(arg) #Pour empiler  LDI selon les instructions du TP
 
         elif inst == "STO": #stocke la valeur au sommet à l'adresse indiquée par le sous-sommet, dépile 2 fois
             memoire[arg] = pile.pop()
