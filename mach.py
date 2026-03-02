@@ -73,7 +73,7 @@ def mach(programme):
             print(pile.pop())
 
         elif inst == "INN":
-            memoire[arg] = int(input("? "))
+            memoire[arg] = int(input("Entrée la valeur de l'opération:  "))
         elif inst == "HLT":  # Arrête le programme
             break
         pc += 1
