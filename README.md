@@ -39,4 +39,4 @@ Ce projet a pour but de créer un compilateur pour un langage simplifié de type
 
 -
 
-Ce README est volontairement simplifié. Plus de détails techniques sont disponibles dans les commentaires du code et dans le rapport PDF exigé par l’enseignant.
+Ce README est volontairement simplifié. Plus de détails techniques sont disponibles dans les commentaires du code exigé par l’enseignant.
