@@ -35,8 +35,7 @@ Ce projet a pour but de créer un compilateur pour un langage simplifié de type
 
 ## Auteur
 
-- [Moodfollowers04](https://github.com/Moodfollowers04)
-
+- Emmanuel Odilon Alla
 -
 
 Ce README est volontairement simplifié. Plus de détails techniques sont disponibles dans les commentaires du code exigé par l’enseignant.
