@@ -35,7 +35,7 @@ Ce projet a pour but de créer un compilateur pour un langage simplifié de type
 
 ## Auteur
 
-- Emmanuel Odilon Alla
--
+-EMMANUEL ODILON ALLA
+-N'GUESSAN ATTI
 
 Ce README est volontairement simplifié. Plus de détails techniques sont disponibles dans les commentaires du code exigé par l’enseignant.
